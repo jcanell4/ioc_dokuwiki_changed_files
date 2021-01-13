@@ -11,5 +11,6 @@ Cada modificació està indicada amb una marca [START: IOC] [END: IOC]
 
 ./lib/plugins/config/admin.php
 
-./lib/plugins/extension/admin.php \\
+./lib/plugins/extension/admin.php
+
 ./lib/scripts/toolbar.js
